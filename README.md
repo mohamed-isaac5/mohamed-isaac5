@@ -13,16 +13,18 @@ GTM Engineer based in Cairo, Egypt. I design and ship outbound infrastructure: s
 
 ## Stack
 
-`Clay` `Apollo` `Smartlead` `Instantly` `n8n` `Make` `Claude Code` `Codex` `Grok` `GoHighLevel` `Salesforce` `HubSpot`
+`Clay` `Apollo` `Smartlead` `Instantly` `n8n` `Make` `Claude Code` `Codex` `Grok`
 
 ## Selected work
 
-Currently building in public - four connected projects, shipping here soon:
+- **[signal-outbound-engine](https://github.com/mohamed-isaac5/signal-outbound-engine)** - live: end-to-end signal-driven outbound engine in Python. Hiring + funding signal capture, an explainable scoring model with a published ICP formula, a cost-ordered enrichment waterfall, offline-first drafting with a named human approval gate, a full audit trail, and Smartlead/Instantly-ready export. 206 tests, mutation-tested, CI on every commit.
+- **[Prospect Brief Copilot](https://pz8jti7kyb8s.run.agentplace.io/)** - published AI agent (built on Agentplace): give it your company URL, then target companies one by one. Returns a fit verdict, real people from public sources, and three outreach messages with the best channel for each. Never invents emails or phone numbers.
 
-1. **signal-outbound-engine** - an end-to-end signal-driven outbound system: hiring + funding signal detection, an explainable compound scoring model with recency decay, a cost-ordered enrichment waterfall, human-approved AI-drafted outreach, and full funnel tracking with a weekly self-correction loop.
-2. **lead-qualifier-agent** - an inbound qualification service: webhook-verified intake, deterministic rules before any LLM call (cost control by design), RAG-grounded scoring against my ICP docs, and hot-lead alerts with the reasoning attached.
-3. **gtm-agent-skills** - my GTM methodology as installable agent skills (Claude Code / Codex): ICP gating, signal building, enrichment waterfall, signal-tied outreach writing, deliverability pre-flight.
-4. **deliverability-preflight** - a CLI + MCP tool that checks a sending domain before a campaign: SPF, DKIM, DMARC and warmup status in one command.
+Building next:
+
+1. **lead-qualifier-agent** - an inbound qualification service: webhook-verified intake, deterministic rules before any LLM call (cost control by design), RAG-grounded scoring against my ICP docs, and hot-lead alerts with the reasoning attached.
+2. **gtm-agent-skills** - my GTM methodology as installable agent skills (Claude Code / Codex): ICP gating, signal building, enrichment waterfall, signal-tied outreach writing, deliverability pre-flight.
+3. **deliverability-preflight** - a CLI + MCP tool that checks a sending domain before a campaign: SPF, DKIM, DMARC and warmup status in one command.
 
 ## Background
 
